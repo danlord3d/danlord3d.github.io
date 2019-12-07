@@ -210,6 +210,7 @@
 		}
 
 	// Banner.
+	/*
 		$banner.each(function() {
 
 			var $this = $(this),
@@ -229,7 +230,7 @@
 
 				}
 
-		});
+		});*/
 
 	// Menu.
 		var $menu = $('#menu'),
